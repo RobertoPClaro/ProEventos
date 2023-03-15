@@ -25,3 +25,10 @@
 /home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ref/ProEventos.API.dll
 /home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.pdb
 /home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.genruntimeconfig.cache
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Humanizer.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/MySqlConnector.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
