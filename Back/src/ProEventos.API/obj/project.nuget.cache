@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "deaUCZdRfN1aQLEsEa0JEL/EH/Thc4TK/9EU9XgKy8UYKijr/R0G52wPt0EvwWeJruKzGKxyxpvB+NP1LDN4Cw==",
+  "success": true,
+  "projectFilePath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
+  "expectedPackageFiles": [
+    "/home/roberto/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/roberto/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/roberto/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/roberto/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/roberto/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/roberto/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
