@@ -33,6 +33,7 @@ namespace ProEventos.API
                 context => context.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
 
             services.AddControllers();
+            services.AddCors();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProEventos.API", Version = "v1" });
@@ -54,6 +55,11 @@ namespace ProEventos.API
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors(x => x.AllowAnyHeader() //dado qualque header da minha requisiçãodo http
+                            .AllowAnyMethod() //vinda de qualquer metodo
+                            .AllowAnyOrigin()//vindo de qualquer origem
+            );
 
             app.UseEndpoints(endpoints =>
             {
