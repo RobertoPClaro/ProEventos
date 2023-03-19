@@ -32,3 +32,9 @@
 /home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
 /home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/MySqlConnector.dll
 /home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Application.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Domain.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Application.pdb
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Domain.pdb
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Persistence.dll
+/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Persistence.pdb
