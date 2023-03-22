@@ -1,10 +1,15 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using ProEventos.Application;
-using ProEventos.Application.Contexts;
+using ProEventos.Application.Contratos;
 using ProEventos.Persistence;
-using ProEventos.Persistence.Contexts;
-using ProEventos.Persistence.Contracts;
+using ProEventos.Persistence.Contextos;
+using ProEventos.Persistence.Contratos;
 
 namespace ProEventos.API
 {
@@ -23,12 +28,12 @@ namespace ProEventos.API
             string mySqlConnection =Configuration.GetConnectionString("Default");
             services.AddDbContext<ProEventosContext>(
                 context => context.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
-
+                
             services.AddControllers()
-                    .AddNewtonsoftJson(
-                        x => x.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+                    .AddNewtonsoftJson(x => x.SerializerSettings.ReferenceLoopHandling = 
+                        Newtonsoft.Json.ReferenceLoopHandling.Ignore
                     );
-            
+
             services.AddScoped<IEventoService, EventoService>();
             services.AddScoped<IGeralPersist, GeralPersist>();
             services.AddScoped<IEventoPersist, EventoPersist>();
@@ -56,10 +61,9 @@ namespace ProEventos.API
 
             app.UseAuthorization();
 
-            app.UseCors(x => x.AllowAnyHeader() //dado qualque header da minha requisiçãodo http
-                            .AllowAnyMethod() //vinda de qualquer metodo
-                            .AllowAnyOrigin()//vindo de qualquer origem
-            );
+            app.UseCors(x => x.AllowAnyHeader()
+                              .AllowAnyMethod()
+                              .AllowAnyOrigin());
 
             app.UseEndpoints(endpoints =>
             {

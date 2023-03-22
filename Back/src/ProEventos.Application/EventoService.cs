@@ -1,6 +1,8 @@
-using ProEventos.Application.Contexts;
+using System;
+using System.Threading.Tasks;
+using ProEventos.Application.Contratos;
 using ProEventos.Domain;
-using ProEventos.Persistence.Contracts;
+using ProEventos.Persistence.Contratos;
 
 namespace ProEventos.Application
 {
@@ -29,6 +31,7 @@ namespace ProEventos.Application
                 throw new Exception(ex.Message);
             }
         }
+
         public async Task<Evento> UpdateEvento(int eventoId, Evento model)
         {
             try
@@ -39,7 +42,6 @@ namespace ProEventos.Application
                 model.Id = evento.Id;
 
                 _geralPersist.Update(model);
-
                 if (await _geralPersist.SaveChangesAsync())
                 {
                     return await _eventoPersist.GetEventoByIdAsync(model.Id, false);
@@ -57,10 +59,9 @@ namespace ProEventos.Application
             try
             {
                 var evento = await _eventoPersist.GetEventoByIdAsync(eventoId, false);
-                if (evento == null) throw new Exception("Evento para delete não foi encontrado.");
+                if (evento == null) throw new Exception("Evento para delete não encontrado.");
 
                 _geralPersist.Delete<Evento>(evento);
-
                 return await _geralPersist.SaveChangesAsync();
             }
             catch (Exception ex)
@@ -74,7 +75,7 @@ namespace ProEventos.Application
             try
             {
                 var eventos = await _eventoPersist.GetAllEventosAsync(includePalestrantes);
-                if(eventos == null) return null;
+                if (eventos == null) return null;
 
                 return eventos;
             }
@@ -89,7 +90,7 @@ namespace ProEventos.Application
             try
             {
                 var eventos = await _eventoPersist.GetAllEventosByTemaAsync(tema, includePalestrantes);
-                if(eventos == null) return null;
+                if (eventos == null) return null;
 
                 return eventos;
             }
@@ -103,10 +104,10 @@ namespace ProEventos.Application
         {
             try
             {
-                var evento = await _eventoPersist.GetEventoByIdAsync(eventoId, includePalestrantes);
-                if(evento == null) return null;
+                var eventos = await _eventoPersist.GetEventoByIdAsync(eventoId, includePalestrantes);
+                if (eventos == null) return null;
 
-                return evento;
+                return eventos;
             }
             catch (Exception ex)
             {

@@ -2,15 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
-<ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ProEventos.Domain\ProEventos.Domain.csproj" />
   </ItemGroup>
-<ItemGroup>
-  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
-  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0" />
-  <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.0" />
-</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.0" />
+  </ItemGroup>
+
 </Project>

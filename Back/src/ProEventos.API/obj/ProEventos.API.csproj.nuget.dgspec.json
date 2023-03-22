@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj": {}
+    "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj": {}
   },
   "projects": {
-    "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj": {
+    "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
+        "projectUniqueName": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
+        "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
         "packagesPath": "/home/roberto/.nuget/packages/",
-        "outputPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/",
+        "outputPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/roberto/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj": {
-                "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj"
-              },
-              "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj": {
-                "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj"
+              "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj": {
+                "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj"
               }
             }
           }
@@ -96,14 +93,14 @@
         }
       }
     },
-    "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj": {
+    "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj",
+        "projectUniqueName": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj",
         "projectName": "ProEventos.Application",
-        "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj",
+        "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj",
         "packagesPath": "/home/roberto/.nuget/packages/",
-        "outputPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Application/obj/",
+        "outputPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/roberto/.nuget/NuGet/NuGet.Config"
@@ -118,11 +115,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj": {
-                "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj"
+              "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj": {
+                "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj"
               },
-              "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj": {
-                "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj"
+              "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj": {
+                "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj"
               }
             }
           }
@@ -155,14 +152,14 @@
         }
       }
     },
-    "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj": {
+    "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj",
+        "projectUniqueName": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj",
         "projectName": "ProEventos.Domain",
-        "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj",
+        "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj",
         "packagesPath": "/home/roberto/.nuget/packages/",
-        "outputPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Domain/obj/",
+        "outputPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/roberto/.nuget/NuGet/NuGet.Config"
@@ -207,14 +204,14 @@
         }
       }
     },
-    "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj": {
+    "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj",
+        "projectUniqueName": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj",
         "projectName": "ProEventos.Persistence",
-        "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj",
+        "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Persistence/ProEventos.Persistence.csproj",
         "packagesPath": "/home/roberto/.nuget/packages/",
-        "outputPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Persistence/obj/",
+        "outputPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/roberto/.nuget/NuGet/NuGet.Config"
@@ -229,8 +226,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj": {
-                "projectPath": "/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj"
+              "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj": {
+                "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Domain/ProEventos.Domain.csproj"
               }
             }
           }

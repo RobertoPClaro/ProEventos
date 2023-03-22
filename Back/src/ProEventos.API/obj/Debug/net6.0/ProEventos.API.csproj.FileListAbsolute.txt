@@ -1,40 +1,44 @@
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/appsettings.Development.json
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/appsettings.json
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.deps.json
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.runtimeconfig.json
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ref/ProEventos.API.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.pdb
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.csproj.AssemblyReference.cache
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.AssemblyInfoInputs.cache
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.AssemblyInfo.cs
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.csproj.CoreCompileInputs.cache
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/staticwebassets.build.json
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/staticwebassets.development.json
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/scopedcss/bundle/ProEventos.API.styles.css
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.csproj.CopyComplete
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ref/ProEventos.API.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.pdb
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.genruntimeconfig.cache
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Humanizer.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/MySqlConnector.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Application.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Domain.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Application.pdb
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Domain.pdb
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Persistence.dll
-/home/roberto/Tudo-Roberto/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Persistence.pdb
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/appsettings.Development.json
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/appsettings.json
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.deps.json
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.runtimeconfig.json
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ref/ProEventos.API.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.API.pdb
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Humanizer.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/MySqlConnector.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Application.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Domain.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Persistence.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Application.pdb
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Domain.pdb
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/ProEventos.Persistence.pdb
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.csproj.AssemblyReference.cache
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.AssemblyInfoInputs.cache
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.AssemblyInfo.cs
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.csproj.CoreCompileInputs.cache
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/staticwebassets.build.json
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/staticwebassets.development.json
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/scopedcss/bundle/ProEventos.API.styles.css
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.csproj.CopyComplete
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ref/ProEventos.API.dll
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.pdb
+/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.genruntimeconfig.cache
