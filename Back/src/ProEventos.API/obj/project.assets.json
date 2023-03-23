@@ -1213,11 +1213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
+      "projectUniqueName": "/home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
+      "projectPath": "/home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
       "packagesPath": "/home/roberto/.nuget/packages/",
-      "outputPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.API/obj/",
+      "outputPath": "/home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/roberto/.nuget/NuGet/NuGet.Config"
@@ -1232,8 +1232,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj": {
-              "projectPath": "/home/roberto/Área de Trabalho/angular teste/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj"
+            "/home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj": {
+              "projectPath": "/home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.Application/ProEventos.Application.csproj"
             }
           }
         }
