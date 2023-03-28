@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fQx87URUcdIhf+ZiqYFjoZMSp/Yto06tOHi8tFc9/7hESniu6Ks8lnFjMVIhsojDm9HMuY2c+9ieTDZjIkw9cA==",
+  "dgSpecHash": "fpMDxIE8JRIw7qmWVLq5nmbG9j/c52eq5jcSo9JdOr4cvNrQngehLXKEyNFk0arRf6pcukZLXQvLlne6lAahgg==",
   "success": true,
   "projectFilePath": "/home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/ProEventos.API.csproj",
   "expectedPackageFiles": [
+    "/home/roberto/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/roberto/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/home/roberto/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/roberto/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.0/microsoft.aspnetcore.jsonpatch.6.0.0.nupkg.sha512",
     "/home/roberto/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0.nupkg.sha512",
@@ -35,6 +37,7 @@
     "/home/roberto/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "/home/roberto/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
     "/home/roberto/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/home/roberto/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/home/roberto/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

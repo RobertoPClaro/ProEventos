@@ -86,3 +86,5 @@
 /home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ref/ProEventos.API.dll
 /home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.pdb
 /home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/obj/Debug/net6.0/ProEventos.API.genruntimeconfig.cache
+/home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/AutoMapper.dll
+/home/roberto/Área de Trabalho/ProEventos/ProEventos/ProEventos/Back/src/ProEventos.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
