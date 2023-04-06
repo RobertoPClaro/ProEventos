@@ -29,11 +29,11 @@ namespace ProEventos.API
         public void ConfigureServices(IServiceCollection services)
         {
             
-            //string mySqlConnection =Configuration.GetConnectionString("Default");
-            //services.AddDbContext<ProEventosContext>(
-            //    context => context.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
+            string mySqlConnection =Configuration.GetConnectionString("Default");
             services.AddDbContext<ProEventosContext>(
-                context => context.UseSqlite(Configuration.GetConnectionString("Default"))
+                context => context.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection))
+            //services.AddDbContext<ProEventosContext>(
+            //    context => context.UseSqlite(Configuration.GetConnectionString("Default"))
             );
             
             services.AddControllers()
@@ -42,9 +42,13 @@ namespace ProEventos.API
                     );
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            
             services.AddScoped<IEventoService, EventoService>();
+            services.AddScoped<ILoteService, LoteService>();
+
             services.AddScoped<IGeralPersist, GeralPersist>();
             services.AddScoped<IEventoPersist, EventoPersist>();
+            services.AddScoped<ILotePersist, LotePersist>();
 
             services.AddCors();
             services.AddSwaggerGen(c =>
